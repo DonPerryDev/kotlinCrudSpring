@@ -19,6 +19,6 @@ data class Persona(
     val direccion: String,
     @Column
     val telefono: String
-){
+) {
 
 }
